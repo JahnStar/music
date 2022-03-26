@@ -65,9 +65,9 @@ body {
 .button {
 	width: 50%;
 	height: 25px;
-	background: #1fd660;
+	background-color: #fff;
 	border-radius: 5px;
-	color: white;
+	color: #1fd660;
 	font-weight: bold;
 	padding: 10px;
 	transition-duration: 0.25s;
@@ -82,8 +82,8 @@ body {
 }
 .button:hover {
 	transition-duration: 0.25s;
-	background-color: #fff;
-	color: BLACK;
+	background: #00872f;
+	color: #000;
 }
 .itch_widget {
     position: relative; 
